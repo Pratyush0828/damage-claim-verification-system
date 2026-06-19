@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.py[cod]
+*.db
+.pytest_cache/
+.mypy_cache/
+backend/.venv/
+backend/uploads/*
+!backend/uploads/.gitkeep
+frontend/node_modules/
+frontend/dist/
+*.tsbuildinfo
+frontend/vite.config.js
+frontend/vite.config.d.ts
+.DS_Store
